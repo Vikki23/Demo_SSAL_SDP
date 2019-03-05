@@ -11,7 +11,7 @@ The SLIC superpixel segmentation for hyperspectral images is implemented accordi
 
 The compared method, i.e., SSAL-N is implemented following:
 
-[3] I. D¨®pido, J. Li, P. R. Marpu, A. Plaza, J. M. Bioucas Dias and J. A. Benediktsson, Semisupervised Self-Learning for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, vol.51, no.7, pp.4032-4044, July 2013.
+[3] I. Dopido, J. Li, P. R. Marpu, A. Plaza, J. M. Bioucas Dias and J. A. Benediktsson, Semisupervised Self-Learning for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, vol.51, no.7, pp.4032-4044, July 2013.
 
 The Multinomial logistic regression (MLR) implimentation is by:
 
